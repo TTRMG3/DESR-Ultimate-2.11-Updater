@@ -1,9 +1,6 @@
 [DESR_Ultimate_2.11_Updater_README.md](https://github.com/user-attachments/files/31874910/DESR_Ultimate_2.11_Updater_README.md)
 # DESR-Ultimate-2.11-Updater
 A solution for automatically upgrade your PSX DESR to firmware 2.11 without an update disc
-# DESR Ultimate 2.11 Updater
-
-> An automatic, no-disc update-preparation tool for compatible Sony PSX DESR systems.
 
 ## English
 
@@ -123,7 +120,7 @@ installer, not a replacement firmware installer.
 **DESR Ultimate 2.11 Updater** es una herramienta gratuita de preservación para
 propietarios de sistemas Sony PSX DESR compatibles cuyo lector óptico ya no
 funciona. Prepara desde USB el contenido de la actualización oficial Sony 2.11
-y entrega la fase final, específica para cada máquina, al actualizador nativo
+y entrega la fase final específica para cada máquina, al actualizador nativo
 de la propia consola.
 
 El ELF incluido se llama **DESR UPDATE PREPARER**. No sustituye al actualizador
